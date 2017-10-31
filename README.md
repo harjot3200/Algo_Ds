@@ -10,7 +10,8 @@ This repo helps you in competitive program as it contains many advanced algorith
  - binary search
  - Bubble Sort
  - Selection Sort
- - insertion sort
+
+ - Insertion sort
  - merge sort
  - Quick sort
  - radix sort
@@ -19,9 +20,20 @@ This repo helps you in competitive program as it contains many advanced algorith
  - Heap
  - Queue
  - stack
+ - insertion sort
+ - Merge sort
+ - quick sort
+ - Radix sort
+ - Dijkstra
+ - Floyd Warshall
+ - heap
+ - queue
+ - Stack
+
 
 ## How to contribute:
 
 Just fork this repo, and start giving any new algorithms which is not in the repo or you can solve any of the issues given.
 
  At last, star this repo, because this will be handy for you.
+ please

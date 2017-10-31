@@ -13,9 +13,15 @@ This repo helps you in competitive program as it contains many advanced algorith
 
  - Insertion sort
  - merge sort
+ - Quick sort
+ - radix sort
+ - Dijkstra
+ - Floyd Warshall
+ - Heap
+ - Queue
+ - stack
  - insertion sort
  - Merge sort
-
  - quick sort
  - Radix sort
  - Dijkstra
@@ -23,6 +29,7 @@ This repo helps you in competitive program as it contains many advanced algorith
  - heap
  - queue
  - Stack
+
 
 ## How to contribute:
 

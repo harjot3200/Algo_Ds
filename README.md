@@ -28,5 +28,9 @@ This repo helps you in competitive program as it contains many advanced algorith
 
 Just fork this repo, and start giving any new algorithms which is not in the repo or you can solve any of the issues given.
 
+
+ At last, Star this repo, because this will be handy for you.
+
  At last, star this repo, because this will be handy for you.
  please
+

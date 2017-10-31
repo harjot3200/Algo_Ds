@@ -12,12 +12,12 @@ This repo helps you in competitive program as it contains many advanced algorith
  - Selection Sort
  - insertion sort
  - merge sort
- - quick sort
+ - Quick sort
  - radix sort
  - Dijkstra
  - Floyd Warshall
- - heap
- - queue
+ - Heap
+ - Queue
  - stack
 
 ## How to contribute:
